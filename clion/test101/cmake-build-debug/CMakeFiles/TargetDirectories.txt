@@ -1,0 +1,3 @@
+/media/toor/storage/vsProject/clion/test101/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/toor/storage/vsProject/clion/test101/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/toor/storage/vsProject/clion/test101/cmake-build-debug/CMakeFiles/test101.dir

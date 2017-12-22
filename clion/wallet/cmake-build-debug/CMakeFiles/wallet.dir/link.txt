@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/wallet.dir/main1.cpp.o CMakeFiles/wallet.dir/Wallet1.cpp.o  -o wallet 

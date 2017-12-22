@@ -1,0 +1,4 @@
+/home/toor/jetbrain/clion-2017.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/media/toor/storage/vsProject/clion/dynamic array"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/toor/storage/vsProject/clion/dynamic array/cmake-build-debug

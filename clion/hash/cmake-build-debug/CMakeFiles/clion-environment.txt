@@ -1,0 +1,1 @@
+CMake: 3.6.3@/media/toor/storage/ubuntu download/clion-2016.3.5/bin/cmake/bin/cmake

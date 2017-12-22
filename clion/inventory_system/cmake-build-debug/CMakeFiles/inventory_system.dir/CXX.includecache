@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/toor/storage/vsProject/clion/inventory_system/inventory.cpp
+string
+-
+iostream
+-
+inventory.h
+/media/toor/storage/vsProject/clion/inventory_system/inventory.h
+
+/media/toor/storage/vsProject/clion/inventory_system/inventory.h
+
+/media/toor/storage/vsProject/clion/inventory_system/main.cpp
+string
+-
+iostream
+-
+inventory.h
+/media/toor/storage/vsProject/clion/inventory_system/inventory.h
+

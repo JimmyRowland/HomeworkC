@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/maximumsum.dir/main.cpp.o  -o maximumsum 

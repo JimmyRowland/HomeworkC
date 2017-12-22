@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/toor/storage/vsProject/clion/Searching Lists: Sequential, Binary, and Fibonacci Searches/Wallet.cpp
+Wallet.h
+/media/toor/storage/vsProject/clion/Searching Lists: Sequential, Binary, and Fibonacci Searches/Wallet.h
+iostream
+-
+string
+-
+math.h
+-
+sstream
+-
+
+/media/toor/storage/vsProject/clion/Searching Lists: Sequential, Binary, and Fibonacci Searches/Wallet.h
+
+/media/toor/storage/vsProject/clion/Searching Lists: Sequential, Binary, and Fibonacci Searches/WalletMain.cpp
+Wallet.h
+/media/toor/storage/vsProject/clion/Searching Lists: Sequential, Binary, and Fibonacci Searches/Wallet.h
+iostream
+-
+
+/media/toor/storage/vsProject/clion/Searching Lists: Sequential, Binary, and Fibonacci Searches/easterCalculator.cpp
+string
+-
+iostream
+-
+easterCalculator.h
+/media/toor/storage/vsProject/clion/Searching Lists: Sequential, Binary, and Fibonacci Searches/easterCalculator.h
+
+/media/toor/storage/vsProject/clion/Searching Lists: Sequential, Binary, and Fibonacci Searches/easterCalculator.h
+
+/media/toor/storage/vsProject/clion/Searching Lists: Sequential, Binary, and Fibonacci Searches/easterCalculatorMain.cpp
+

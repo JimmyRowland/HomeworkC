@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/toor/storage/vsProject/clion/binarySearch/bst.h
+string
+-
+stdexcept
+-
+
+/media/toor/storage/vsProject/clion/binarySearch/main.cpp
+iostream
+-
+bst.h
+/media/toor/storage/vsProject/clion/binarySearch/bst.h
+

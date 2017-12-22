@@ -1,0 +1,4 @@
+"/media/toor/storage/ubuntu download/clion-2016.3.5/bin/cmake/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/toor/storage/vsProject/clion/calculator
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/toor/storage/vsProject/clion/calculator/cmake-build-debug

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/inventory_system.dir/main.cpp.o CMakeFiles/inventory_system.dir/inventory.cpp.o  -o inventory_system 

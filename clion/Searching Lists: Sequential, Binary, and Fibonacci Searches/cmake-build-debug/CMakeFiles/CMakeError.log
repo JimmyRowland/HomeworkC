@@ -1,0 +1,26 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /media/toor/storage/vsProject/clion/Searching Lists: Sequential, Binary, and Fibonacci Searches/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_eac09/fast"
+/usr/bin/make -f CMakeFiles/cmTC_eac09.dir/build.make CMakeFiles/cmTC_eac09.dir/build
+make[1]: Entering directory '/media/toor/storage/vsProject/clion/Searching Lists: Sequential, Binary, and Fibonacci Searches/cmake-build-debug/CMakeFiles/CMakeTmp'
+CMakeFiles/cmTC_eac09.dir/build.make:64: *** target pattern contains no '%'.  Stop.
+make[1]: Leaving directory '/media/toor/storage/vsProject/clion/Searching Lists: Sequential, Binary, and Fibonacci Searches/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_eac09/fast' failed
+make: *** [cmTC_eac09/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /media/toor/storage/vsProject/clion/Searching Lists: Sequential, Binary, and Fibonacci Searches/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b2a5a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b2a5a.dir/build.make CMakeFiles/cmTC_b2a5a.dir/build
+make[1]: Entering directory '/media/toor/storage/vsProject/clion/Searching Lists: Sequential, Binary, and Fibonacci Searches/cmake-build-debug/CMakeFiles/CMakeTmp'
+CMakeFiles/cmTC_b2a5a.dir/build.make:64: *** target pattern contains no '%'.  Stop.
+make[1]: Leaving directory '/media/toor/storage/vsProject/clion/Searching Lists: Sequential, Binary, and Fibonacci Searches/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_b2a5a/fast' failed
+make: *** [cmTC_b2a5a/fast] Error 2
+
+
+

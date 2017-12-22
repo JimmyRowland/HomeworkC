@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Sorting_Linked_Lists.dir/main.cpp.o  -o Sorting_Linked_Lists 

@@ -1,0 +1,14 @@
+1	A TrashCan with a size=5 and containing 5 pieces of trash. There are 3 trash cans
+
+subtraction failed
+2	A TrashCan with a size=5 and containing 5 pieces of trash. There are 3 trash cans
+
+constructor failed
+3	A TrashCan with a size=5 and containing 5 pieces of trash. There are 3 trash cans
+
+setSize failed
+4	A TrashCan with a size=5 and containing 5 pieces of trash. There are 3 trash cans
+
+constructor failed
+5	A TrashCan with a size=5 and containing 5 pieces of trash. There are 3 trash cans
+

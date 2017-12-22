@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/toor/storage/vsProject/clion/project1/List.cpp
+List.h
+/media/toor/storage/vsProject/clion/project1/List.h
+
+/media/toor/storage/vsProject/clion/project1/List.h
+iostream
+-
+ListNode.h
+/media/toor/storage/vsProject/clion/project1/ListNode.h
+ListIterator.h
+/media/toor/storage/vsProject/clion/project1/ListIterator.h
+
+/media/toor/storage/vsProject/clion/project1/ListIterator.cpp
+ListIterator.h
+/media/toor/storage/vsProject/clion/project1/ListIterator.h
+
+/media/toor/storage/vsProject/clion/project1/ListIterator.h
+iostream
+-
+ListNode.h
+/media/toor/storage/vsProject/clion/project1/ListNode.h
+
+/media/toor/storage/vsProject/clion/project1/ListNode.h
+iostream
+-
+
+/media/toor/storage/vsProject/clion/project1/main.cpp
+iostream
+-
+List.h
+/media/toor/storage/vsProject/clion/project1/List.h
+List.cpp
+/media/toor/storage/vsProject/clion/project1/List.cpp
+ListIterator.h
+/media/toor/storage/vsProject/clion/project1/ListIterator.h
+ListIterator.cpp
+/media/toor/storage/vsProject/clion/project1/ListIterator.cpp
+

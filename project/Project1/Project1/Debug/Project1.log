@@ -1,0 +1,9 @@
+﻿  test.cpp
+e:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2372): error C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  e:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2372): note: see declaration of 'std::copy::_Unchecked_iterators::_Deprecate'
+  e:\vsproject\project\project1\project1\test.cpp(34): note: see reference to function template instantiation '_OutIt *std::copy<int*,int*>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=int *,
+              _InIt=int *
+          ]

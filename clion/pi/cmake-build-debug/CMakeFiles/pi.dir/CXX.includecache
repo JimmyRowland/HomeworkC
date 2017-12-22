@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/toor/storage/vsProject/clion/pi/main.cpp
+string
+-
+iostream
+-
+my_pi_approximator.h
+/media/toor/storage/vsProject/clion/pi/my_pi_approximator.h
+iomanip
+-
+
+/media/toor/storage/vsProject/clion/pi/my_pi_approximator.cpp
+string
+-
+iostream
+-
+my_pi_approximator.h
+/media/toor/storage/vsProject/clion/pi/my_pi_approximator.h
+
+/media/toor/storage/vsProject/clion/pi/my_pi_approximator.h
+

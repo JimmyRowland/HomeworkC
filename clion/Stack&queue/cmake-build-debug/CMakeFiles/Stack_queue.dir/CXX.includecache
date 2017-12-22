@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/toor/storage/vsProject/clion/Stack&queue/main.cpp
+iostream
+-
+stack.h
+/media/toor/storage/vsProject/clion/Stack&queue/stack.h
+
+/media/toor/storage/vsProject/clion/Stack&queue/stack.h
+iostream
+-
+string
+-
+

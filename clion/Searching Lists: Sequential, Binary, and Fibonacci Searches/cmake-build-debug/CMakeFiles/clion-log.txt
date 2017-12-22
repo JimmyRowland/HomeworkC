@@ -1,0 +1,4 @@
+/home/toor/jetbrain/clion-2017.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/media/toor/storage/vsProject/clion/Searching Lists: Sequential, Binary, and Fibonacci Searches"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/toor/storage/vsProject/clion/Searching Lists: Sequential, Binary, and Fibonacci Searches/cmake-build-debug

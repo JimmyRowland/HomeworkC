@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/toor/storage/vsProject/clion/wallet/Wallet1.cpp
+string
+-
+iostream
+-
+Wallet1.h
+/media/toor/storage/vsProject/clion/wallet/Wallet1.h
+cmath
+-
+tuple
+-
+
+/media/toor/storage/vsProject/clion/wallet/Wallet1.h
+
+/media/toor/storage/vsProject/clion/wallet/main1.cpp
+iostream
+-
+string
+-
+Wallet1.h
+/media/toor/storage/vsProject/clion/wallet/Wallet1.h
+cmath
+-
+

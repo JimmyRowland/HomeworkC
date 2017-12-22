@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/toor/storage/vsProject/clion/node/List.h
+iostream
+-
+ListNode.h
+/media/toor/storage/vsProject/clion/node/ListNode.h
+
+/media/toor/storage/vsProject/clion/node/ListNode.h
+iostream
+-
+
+/media/toor/storage/vsProject/clion/node/main.cpp
+iostream
+-
+cstdlib
+-
+List.h
+/media/toor/storage/vsProject/clion/node/List.h
+ListNode.h
+/media/toor/storage/vsProject/clion/node/ListNode.h
+

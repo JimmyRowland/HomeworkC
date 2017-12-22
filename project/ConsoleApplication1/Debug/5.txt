@@ -1,0 +1,5 @@
+This GovernmentShutdown is destroyed
+Start day:1 End day: 11 cost:222222222222.2
+
+Start day:2 End day: 12 cost:333333333333.3
+

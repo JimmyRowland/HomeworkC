@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/toor/storage/vsProject/clion/fixed/Calculator.h
+Stack.h
+/media/toor/storage/vsProject/clion/fixed/Stack.h
+stdexcept
+-
+Exceptions.h
+/media/toor/storage/vsProject/clion/fixed/Exceptions.h
+
+/media/toor/storage/vsProject/clion/fixed/Exceptions.h
+iostream
+-
+exception
+-
+
+/media/toor/storage/vsProject/clion/fixed/Stack.h
+stdexcept
+-
+
+/media/toor/storage/vsProject/clion/fixed/main.cpp
+iostream
+-
+Calculator.h
+/media/toor/storage/vsProject/clion/fixed/Calculator.h
+
